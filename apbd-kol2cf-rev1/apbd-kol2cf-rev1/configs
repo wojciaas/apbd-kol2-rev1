@@ -1,0 +1,2 @@
+﻿dotnet new tool-manifest
+dotnet tool install dotnet-ef --version 8.0.0
